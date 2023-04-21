@@ -836,7 +836,7 @@ a .material-symbols-outlined:hover{
   right: 8%;
   border-radius: 14rem;
   z-index: -1;
-  filter: blur(10rem);
+  filter: blur(1rem);
 }
 .circle2 {
   background: #2EAD61;
